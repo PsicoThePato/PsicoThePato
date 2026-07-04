@@ -27,3 +27,7 @@ knowledge base. Currently designing
 
 Previously: built *Cerco Inteligente de Vitória*, a city-scale public-safety platform
 (FastAPI, Redis, SQS, Kubernetes) used by municipal police and state traffic authorities.
+
+---
+
+*A duck with no dreams, but one ambition: get revenge against my brother and rebuild my flock.*
